@@ -1,0 +1,17 @@
+# <type>: <short summary in lowercase, imperative mood>
+# (max 50 characters)
+
+# Optional longer description here (wrap at 72 characters)
+#
+# Common types:
+#   feat:     a new feature
+#   fix:      a bug fix
+#   docs:     documentation only changes
+#   style:    formatting, no code change
+#   refactor: code change without adding features or fixing bugs
+#   test:     adding or updating tests
+#   chore:    maintenance tasks like deps, configs
+#
+# Example:
+# feat: add day01 exercise for hello world
+
